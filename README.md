@@ -6,7 +6,7 @@
   </p>
  
   <h3>About Me</h3>
-<p> Hello my name is David Barbour and I am a software engineer. I am currently completing a full-stack bootcamp at General Assembly in HTML, CSS, JavaScript, jQuery, Python and Django. What excites me most about diving into a new career as a software engineer are the challenges and the nonstop education. One of my favorite things about learning is the ability to pass that knowledge on to others. Throughout my life as a dance teacher and a sales trainer I have always found the exchange of ideas and initiation of new connections to be the most rewarding. What I hope to get out of a life in software engineering; is sharing, knowledge, and the creation of amazing things. </p>
+<p> Hello my name is David Barbour and I am a software engineer. I am a graduate of the General Assembly full-stack bootcamp where I had the pleasure of being introduced to Python, Javascript, HTML, and CSS programming languages as well as several frameworks, libraries, and both SQL and NonSQL databases. What excites me most about diving into a career as a software engineer are the challenges and the nonstop education. Throughout my life as a dance teacher and a sales trainer I have always found the exchange of ideas and initiation of new connections to be the most rewarding. As a software engineer I strive to be enriched through sharing, knowledge, and the creation of amazing things. </p>
   
   <h3>Currently Learning</h3>
   <p>I am currently learning HTML, CSS, and Javascript. </P>
